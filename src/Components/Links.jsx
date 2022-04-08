@@ -5,7 +5,7 @@ const Links = () => {
   const arr = ["Services", "Projects", "About"];
   return (
     <>
-      <div className="Links-div">
+      <div className="links-div">
         {arr.map((el) => {
           return <span>{el}</span>;
         })}
