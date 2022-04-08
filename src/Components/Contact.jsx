@@ -4,7 +4,7 @@ import "./Navbar.css";
 const Contacts = () => {
   return (
     <>
-      <div className="Contacts-div">
+      <div className="contacts-div">
         <button>Contact</button>
       </div>
     </>
